@@ -1,2 +1,0 @@
-hoy es lunes segundo de marzo
-Con esto se hace commit.
