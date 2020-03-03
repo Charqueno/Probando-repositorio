@@ -1,2 +1,2 @@
 # Probando-repositorio
-Pruebas para poner en práctica el curso de Git HUb 
+Pruebas para poner en práctica el curso de Git Hub 
